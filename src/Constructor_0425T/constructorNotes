@@ -1,12 +1,8 @@
-package Constructor_0425T;
 
-public class ConstructorNotes {
-    /*
+STUDY SESSION
+TUESDAY APRIL 25, 2023
 
-    STUDY SESSION
-    TUESDAY APRIL 25, 2023
-
-    SUMMARY: We went over the constructor quiz and discussed return types for methods.
+SUMMARY: We went over the constructor quiz and discussed return types for methods.
 
     1. Can constructors be overloaded?
         YES, but there needs to be different parameters in the constructors
@@ -49,7 +45,3 @@ public class ConstructorNotes {
 
     10. (Constructor vs regular method)
         See Q10_Test
-
-*/
-
-}
